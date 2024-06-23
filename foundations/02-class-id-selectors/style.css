@@ -1,0 +1,18 @@
+#two {
+    color: rgb(17, 0, 255);
+    font-size: 36px;
+}
+
+#four {
+    background-color: rgba(18, 255, 18, 0.575);
+    font-weight: bold;
+}
+
+.big {
+    font-size: 24px;
+}
+
+.odd:nth-child(odd) {
+background-color: hsla(345, 97%, 56%, 0.253);
+font-family: Verdana, "DejaVu Sans", sans-serif;
+}
