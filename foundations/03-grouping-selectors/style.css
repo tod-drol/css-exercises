@@ -1,0 +1,14 @@
+.btn {
+ font-family: Helvetica, "Times New Roman", sans-serif;
+ font-size: 28px;
+}
+
+.blackbtn {
+    background-color: hsl(0, 0%, 0%);
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.redbtn {
+    background-color:rgba(255, 6, 6, 0.897);
+}
